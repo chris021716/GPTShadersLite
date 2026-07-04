@@ -1,0 +1,37 @@
+# GPT Shaders Lite License
+
+Copyright (c) 2026 Chris Inc. (which was totally not made up a couple seconds ago)
+
+All rights reserved.
+
+## Permissions
+
+You are free to:
+
+- Download GPT Shaders Lite.
+- Use GPT Shaders Lite for personal use.
+- Share the official GitHub release link.
+
+## Restrictions
+
+You may not:
+
+- Sell GPT Shaders Lite.
+- Redistribute modified release versions as official releases.
+- Claim GPT Shaders Lite or GPT Shaders as your own project.
+
+If you create a fork or modified version, you must clearly state that it is **based on GPT Shaders Lite** and credit the original project.
+
+## Disclaimer
+
+GPT Shaders Lite is provided "as is" without warranty. The authors are not responsible for any damage, data loss, or hardware issues resulting from its use.
+
+## Credits
+
+Original project: **GPT Shaders Lite**
+
+Created by **Chris**
+
+Developed with assistance from **ChatGPT**.
+
+Thank you for supporting GPT Shaders Lite!
