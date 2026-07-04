@@ -1,37 +1,30 @@
 # GPT Shaders Lite
 
-## Version 1.0
+Welcome to **GPT Shaders Lite**!
 
-Welcome to **GPT Shaders Lite Version 1.0**!
+GPT Shaders Lite is the lightweight edition of the GPT Shaders project. It is designed to make Minecraft look better while keeping performance as high as possible.
 
-GPT Shaders Lite is the lightweight edition of GPT Shaders. It is designed to improve Minecraft's visuals while maintaining extremely high performance.
-
-This edition focuses on giving players a better-looking game without adding heavy graphical effects.
+Unlike many shader packs, GPT Shaders Lite does not try to compete with heavy cinematic shaders. Instead, it focuses on small visual improvements that have little impact on performance, making it a great choice for lower-end computers and players who prefer high frame rates.
 
 ## Features
 
 - Lightweight water animation
-- Simple blue water tint
+- Improved water colors
 - Warm torch and lava lighting
 - Lightweight waving grass and foliage
-- Slight foliage color enhancement
 - Slight color enhancement
-- Optimized for maximum performance
+- Performance-focused rendering
+- Vanilla-friendly appearance
 
-## Not Included
+## Philosophy
 
-To keep performance as high as possible, GPT Shaders Lite does not include:
+Every feature in GPT Shaders Lite must justify its performance cost.
 
-- Custom sky
-- Fresnel water reflections
-- Advanced fog
-- Bloom
-- Volumetric effects
-- Heavy post-processing
+If an effect significantly reduces FPS without providing a noticeable visual improvement, it does not belong in Lite.
 
 ## Target Hardware
 
-Recommended for:
+GPT Shaders Lite is recommended for:
 
 - Intel UHD Graphics
 - Intel Iris Xe Graphics
@@ -43,37 +36,52 @@ Recommended for:
 - AMD Radeon RX 460
 - AMD Radeon RX 560
 
-## Target Performance
-
-GPT Shaders Lite is designed for extremely high frame rates.
-
-Target: **300–350 FPS** on higher-end systems, depending on Minecraft settings, render distance, installed mods, resource packs, and world complexity.
-
 ## Compatibility
 
 - Minecraft Java Edition
 - Iris Shaders
-- NeoForge 1.21.1
+- NeoForge
+- Fabric (planned)
+- Forge with Oculus (planned)
 
-## Installation
+## Releases
 
-1. Download the shader pack.
-2. Place the ZIP file into your `.minecraft/shaderpacks` folder.
-3. Launch Minecraft with Iris Shaders.
-4. Select **GPT Shaders Lite**.
+Current Release:
+- **GPT Shaders Lite Version 1.0**
 
-## Project Editions
+Prototype Releases:
+- Lite Prototype 1 (LP1)
+- Lite Prototype 2 (LP2)
+
+## Future Plans
+
+- Improve water quality while keeping high FPS.
+- Improve foliage animation.
+- Continue optimizing performance.
+- Expand compatibility with Fabric and Forge.
+- Continue improving visual quality without sacrificing the Lite philosophy.
+
+## Other GPT Shaders Projects
 
 - GPT Shaders Lite
-- GPT Shaders
+- GPT Shaders (Standard)
 - GPT Shaders Plus
 - GPT Shaders GX
 - GPT Shaders GE (Gemini Experimental)
 
-If you think this is going to be like BSL, then look somewhere else.
+## Contributing
+
+Suggestions, bug reports, and feedback are always welcome. Every release is tested and improved based on community feedback.
 
 ## Credits
 
-Created by **Chris**
+**Project Creator**
+- Chris
 
-Developed with assistance from **ChatGPT**.
+**Development Assistance**
+- ChatGPT
+- Google Gemini (Experimental branch)
+
+If you think this is going to be like BSL, then look somewhere else.
+
+Thank you for supporting GPT Shaders Lite!
